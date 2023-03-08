@@ -1,1 +1,2 @@
 # Final-Year-Project
+Our final year project is about "Genetic subtype of MGMT prediction using MRI." Being an engineer or developer for a humanitarian cause by choosing medical imaging to save people's life was the goal of this project and to be honest, it has been more of a challenge too. Our aim is to design a model that can efficiently and accurately predict the MGMT status of a gene that is either methylated or unmethylated.
